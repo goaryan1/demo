@@ -4,4 +4,5 @@ Recipe book
 
 1. Paneer
 2. Dal
-3. Rice
+3. Plain Rice
+4. Jeera Rice
